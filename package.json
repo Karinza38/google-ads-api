@@ -20,7 +20,7 @@
     "@isaacs/ttlcache": "^1.2.2",
     "google-ads-node": "14.0.0",
     "google-auth-library": "^7.1.0",
-    "google-gax": "^4.4.1",
+    "google-gax": "^4.6.0",
     "long": "^4.0.0"
   },
   "devDependencies": {
